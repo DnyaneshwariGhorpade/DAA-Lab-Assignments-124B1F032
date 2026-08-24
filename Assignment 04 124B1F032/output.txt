@@ -1,0 +1,20 @@
+Smart City Emergency Route System
+
+Enter number of intersections: 5
+Enter number of roads: 6
+
+Enter road details:
+Format: source destination travel_time
+0 1 4
+0 2 2
+2 3 2 
+1 3 1
+3 4 3
+2 4 10
+
+Enter ambulance source node: 0
+Enter hospital destination node: 4
+
+Fastest Route:
+0 -> 2 -> 3 -> 4
+Shortest Travel Time: 7 minutes
