@@ -1,0 +1,28 @@
+Emergency Relief Boat Loading
+
+Enter boat capacity (kg): 500
+Enter number of items: 3
+
+Item 1
+Name: Water
+Weight (kg): 20
+Utility Value: 100
+
+Item 2
+Name: Food
+Weight (kg): 15
+Utility Value: 78
+
+Item 3
+Name: Medicine
+Weight (kg): 8.9
+Utility Value: 30
+
+--- Relief Loading Result ---
+Item            Weight     Value      Ratio      Taken     
+Food            15.00      78.00      5.20       15.00     
+Water           20.00      100.00     5.00       20.00     
+Medicine        8.90       30.00      3.37       8.90      
+
+Maximum Boat Capacity: 500.00 kg
+Total Utility Value: 208.00
