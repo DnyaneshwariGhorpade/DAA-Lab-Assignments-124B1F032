@@ -1,0 +1,20 @@
+StreamFlix Movie Recommendation System
+
+Enter CSV filename: movies.csv
+
+20 movies loaded successfully.
+
+Sort Movies By:
+1. IMDb Rating
+2. Release Year
+3. Watch Time
+Enter choice: 1
+
+How many movies do you want to display? 2
+
+Sorted Movie Recommendations:
+
+ID      Title                   Year    Rating  Watch Time
+------------------------------------------------------------
+11      The Shawshank Redemption        1994    9.3     142
+13      The Godfather                   1972    9.2     175
