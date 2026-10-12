@@ -1,0 +1,26 @@
+Enter number of cities, routes and stages: 9 16 5
+Enter stage number for each city (0 to 4):
+0 1 1 2 2 2 3 3 4
+Enter routes as: source destination cost
+0 1 2
+0 2 4
+1 3 5
+1 4 2
+1 5 6
+2 3 3
+2 4 4
+2 5 1
+3 6 2
+3 7 7
+4 6 4
+4 7 3
+5 6 5
+5 7 2
+6 8 3
+7 8 1
+Enter number of delivery requests: 1
+Enter source and destination: 0 8
+
+Request 1:
+Minimum delivery cost: 8
+Optimal route: 0 2 5 7 8 

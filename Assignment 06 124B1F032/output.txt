@@ -1,0 +1,10 @@
+Enter number of items and truck capacity: 3 50
+Enter weight and utility value of each item:
+10 60
+20 100
+30 120
+
+Maximum utility: 220
+Selected items:
+Item 2: Weight = 20 kg, Utility = 100
+Item 3: Weight = 30 kg, Utility = 120
